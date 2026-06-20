@@ -1,0 +1,11 @@
+# Variables de entorno y credenciales ocultas (¡Muy importante!)
+.env
+
+# Archivos temporales y caché de Python
+__pycache__/
+*.pyc
+
+# Carpetas generadas al compilar tu ejecutable (.exe)
+build/
+dist/
+*.spec
